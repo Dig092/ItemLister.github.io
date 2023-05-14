@@ -1,0 +1,15 @@
+{
+  "name": "item_lister",
+  "version": "1.0.0",
+  "main": "New.js",
+  "scripts": {
+    "build:css": " tailwind build src/style.css -o dist/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
