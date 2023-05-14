@@ -53,6 +53,7 @@
 
     </div>
 
+<<<<<<< HEAD
     <script>
     let form = document.getElementById('addForm');
 let itemList = document.getElementById('items');
@@ -115,3 +116,9 @@ function filterItem(e){
 </body>
 
 </html>
+=======
+    <script src="script.js"></script>
+</body>
+
+</html>
+>>>>>>> 02ba69f8dc03199e63094051281a8f9767dcd34f
